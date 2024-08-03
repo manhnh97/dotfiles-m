@@ -1,0 +1,37 @@
+
+# 'brew tap'
+tap "homebrew/cask-fonts"
+
+# 'brew install'
+brew "awscli"
+brew "bat"
+brew "exa"
+brew "git"
+brew "nethack"
+brew "starship"
+brew "stow"
+brew "tmux"
+brew "vim"
+brew "zsh"
+
+# 'brew install --cask'
+cask "vlc"
+cask "warp"
+cask "zoom"
+cask "docker"
+cask "notion"
+cask "charles"
+cask "discord"
+cask "postman"
+cask "raycast"
+cask "telegram"
+cask "wireshark"
+cask "1password"
+cask "virtualbox"
+cask "burp-suite"
+cask "sublime-text"
+cask "google-chrome"
+cask "cloudflare-warp"
+cask "font-cascadia-code"
+cask "visual-studio-code"
+cask "font-cascadia-code-pl"
